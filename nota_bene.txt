@@ -1,0 +1,5 @@
+1. to rename any commit do: 
+	a) git commit --amend
+	b) __new name__
+	c) push "esc"
+	d) print ":wq", push "enter"
