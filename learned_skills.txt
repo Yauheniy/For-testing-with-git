@@ -1,0 +1,8 @@
+1. To work with github and bitbucket
+2. To work with git with cmd and vim
+3. To make locale or remote open or close repositories
+4. Add, commit, push, pull, clone, reset, revert...
+5. Rename, ignore, work with fork :) (to work with branches).
+6. To solve problem with "detatched head" or push rejection with the message"is up-to-date".
+
+Now I can quietly and calmly work with the basic functions of the GIT

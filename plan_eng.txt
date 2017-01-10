@@ -1,0 +1,41 @@
+Task sequence for myself:
+
+1. Create a new open blank repository in the github.
+2. Create a local repository on my computer.
+3. Put this file info the local repository. Add to tracking and commit.
+4. Create object1.txt file as the first object of training, fill it with any text. Add+commit.
+5. Create a test directory object_dir, it object2.txt create a file with any text. Add+commit.
+6. Push github repository without SSH-key (and thereafter until a special mention - without a key).
+7. Create .gitignore, create object_ig.txt file, directory object_dir_ig and immediately add them to gitignor. Change text in object1.txt. Add+commit.
+8. Create an SSH key, add it to github, push a couple of times changes (text object1.txt, object2.txt files) using the key - without entering the password.
+9. Remove the key from the github, make sure that now and again need a password, then do not use the key if unnecessarily.
+10. Create a file object_post_ig.txt. Add+commit+push.
+11. Add object_post_ig.txt file in .gitignore, Add+commit+push.. 
+12. Make sure that it has not disappeared in the remote repository.
+13. Try to keep it still disappeared in the remote repository. If it does not immediately - to hit him some crutch :)
+14. Describe the solution to the problem solution_of_problem_post_ignore.txt
+15. Create a file to_delete.txt with free text. Add+commit+push..
+16. Remove it soft.
+17. Change the text in the file to_delete.txt.
+18. Create partner_to_delete.txt file. Add it using a standard lazy "add --all". To commit. push.
+19. Pull the project and make sure that the file to_delete.txt is updated. Not everyone will be able to create a problem, and rejoice that :).
+20. Remove to_delete.txt belarussian-style (hard, "zhestachaysha") (as a crutch - manually copy it to an external folder, zhestachaysha remove it from the project, copy it back and add it to gitignor.). Add+commit+push.
+21. Internally gather to prepare create a fucking problem with "detatched Head". I am going? Forward!
+22. Create gemor1.txt file with an voluntary text. Add+commit+push.
+23. Create gemor2_to_delete.txt file with any text. Add+commit+push.
+24. Checkout locale on the penultimate commit.
+25. Add gemor3.txt file. Try to Add+commit+push. Error? Good! Maladets! :)
+26. Solve the problem. As a result, it should be on the locale and on remote gemor1.txt and gemor3.txt. gemor2 should not be.
+27. If you solved the problem, describe the solution and detatched_head_solution1.txt dzve bulbs getamu lad!
+28. Again internally gather fight detatched hed and related troubles. (We are not looking for the easy way).
+29. Create gemor4.txt, Add+commit+push.
+30. Reset commit in the locale. (Later try revert).
+31. Add gemor5.txt. Add+commit. The challenge: gemor5 must be, and gemor4 must die - both in a local folder and in remote. Push. Get the problem.
+32. Solve the problem and then describe the solution in detatched_head_solution1.txt file. Add+commit+push.
+33. And on the little things: Rename the file. Add+commit+push
+34. Create a new branch new_branch1, change the text in object1.txt. Add+commit+push
+35. Smerzhit branches. Add+commit+push
+36. Create another branch new_branch2. Again, change the text in object1.txt. Add+commit+push
+37. Go to the master branch. Again, change the text in object1.txt in the same place of claim 36. Add+commit+push
+38. Merge branches. To find out the problem, to admire, to fix manually. Add+commit+push.
+39. Read about unstage, if not encountered this problem before.
