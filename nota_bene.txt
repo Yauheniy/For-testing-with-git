@@ -3,3 +3,6 @@
 	b) __new name__
 	c) push "esc"
 	d) print ":wq", push "enter"
+2. Застешить, почерипикать: 
+	a) http://www.linux.org.ru/forum/development/8630051
+	b) https://marklodato.github.io/visual-git-guide/index-ru.html#cherry-pick

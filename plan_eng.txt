@@ -38,4 +38,4 @@ Task sequence for myself:
 36. Create another branch new_branch2. Again, change the text in object1.txt. Add+commit+push
 37. Go to the master branch. Again, change the text in object1.txt in the same place of claim 36. Add+commit+push
 38. Merge branches. To find out the problem, to admire, to fix manually. Add+commit+push.
-39. Read about unstage, if not encountered this problem before.
+39. Unstage, stash, chery-pick.
